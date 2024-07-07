@@ -1,0 +1,132 @@
+
+.gambarsolo{
+  position: relative;
+  top: 0%;
+  left: 34%;
+  transform: translate(-50%, -0%);
+ height: 550px;
+ width: auto;
+ 
+}
+
+
+
+.gambartegal1{
+  position: relative;
+  top: 0%;
+  left: 0%;
+ 
+  height: 550px;
+ width: auto;
+ 
+ 
+}
+
+
+
+.gambarsemarang{
+  position: relative;
+  top: 0%;
+  left: 45%;
+  transform: translate(-50%, -0%);
+ height: 550px;
+ width: auto;
+ 
+}
+
+.buttonlainnya  {
+  position: relative;
+                top: 50%;
+                left: 50%;
+                transform: translate(-50%, -50%);
+  font-size: 20px;
+  
+  color: white;
+  background-color: #FF8303;
+  border: none;
+  border-radius: 10px;
+  padding: 10px 80px;
+  cursor: pointer;
+  box-shadow: 0 10px 10px hsla(0, 1%, 32%, 0.2); 
+}
+
+
+.back-button {
+  background-color: #FF8303;
+  position: relative;
+ top: -480px;
+  scale: 60%;
+  background: none;
+  border: none;
+  cursor: pointer;
+}
+
+.back-button2 {
+  background-color: #FF8303;
+  position: relative;
+  top: -30px;
+  scale: 60%;
+  background: none;
+  border: none;
+  cursor: pointer;
+}
+
+.back-button4 {
+  position: relative;
+  scale: 90%;
+  background: none;
+  border: none;
+  cursor: pointer;
+}
+
+.deskripsitegal{
+  display: flex;
+  justify-content: center;
+}
+
+hr{
+  border: none;
+  height: 2px;
+  background-color: black;
+}
+
+.bintangatas{
+  position: relative;
+  top: 50%;
+  left: 78%;
+  
+  transform: translate(-50%, -110%);
+}
+
+.deskripsimakanan{
+  font-weight: 500;
+  position: relative;
+  top: 50%;
+  left: 70%;
+  transform: translate(-50%, -50%);
+}
+
+.deskripsimakanan2{
+  width: 700px;
+ 
+  font-weight: 500;
+  position: relative;
+  top: 50%;
+  left: 70%;
+  transform: translate(15%, -280%);
+  margin:0px;
+  
+}
+
+.tersedia .imgTersedia{
+  scale: 25%;
+  display: flex;
+  justify-content: center; /* Mengatur posisi horizontal ke tengah */
+  position: relative;
+  top: 50%;
+  left: 50%;
+  transform: translate(400%, -130%);
+ 
+}
+
+

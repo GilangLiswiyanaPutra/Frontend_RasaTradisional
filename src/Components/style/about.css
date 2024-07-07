@@ -1,0 +1,181 @@
+.imgHead{
+    display: flex;
+    justify-content: center; /* Mengatur posisi horizontal ke tengah */
+    align-items: center;
+    background-image: url('assets/motif1.png');
+    background-size: cover; /* Untuk mengisi area background secara proporsional */
+    background-position: center;
+    padding: 30px;
+    height: 500px;
+    margin-top: -100px;
+  }
+
+
+
+  .about2{
+    width: 100%;
+    margin-bottom: 20%;
+    padding-bottom: 100px;
+  }
+
+  .about1{
+    scale: 80%;
+    margin-left: 200px;
+    margin-bottom: 130px;
+  }
+
+  .tlisan1{
+    display: flex;
+    justify-content: center;
+   
+  }
+  .tlisan1 h1{
+    font-size: 50px;
+   
+  }
+
+  .tlisan2{
+    margin-top: 100px;
+    
+    
+   
+  }
+
+  .tlisan2 p{
+   font-weight: 500;
+   text-shadow: 1px 3px 3px hsla(0, 0%, 0%, 0.265);
+    
+    
+   
+  }
+
+  .tlisan3{
+    display: flex;
+    justify-content: center;
+   
+  }
+
+
+
+  .about3{
+    width: 30%;
+    height:fit-content;
+    margin-right: 150px;
+    
+  }
+
+  .tlisan4{
+    padding-right: 70px;
+    
+
+  }
+
+  .tlisan4 p{
+    font-weight: 500;
+    text-shadow: 1px 3px 3px hsla(0, 0%, 0%, 0.265);
+  }
+
+  .tlisan5{
+    display: flex;
+    justify-content: center;
+   
+  }
+
+  .tlisan6{
+    margin-right: 200px;
+  }
+
+  .tlisan6 p{
+    font-weight: 500;
+    text-shadow: 1px 3px 3px hsla(0, 0%, 0%, 0.265);
+  }
+
+  .about4{
+    width: 25%;
+    height:fit-content;
+    margin-left: 100px;
+    
+   
+  }
+
+
+  .tlisan9{
+    display: flex;
+    justify-content: center;
+    border-radius: 10px;
+    margin-right: 50px;
+    margin-left: 50px;
+   
+  }
+
+  .tlisan7{
+    padding:30px 30px 40px 30px;
+    border-radius: 10px;
+    border: 1px solid hsl(0, 5%, 88%);
+    box-shadow: 1px 3px 3px hsla(0, 0%, 0%, 0.265);
+    margin-right: 50px;
+    margin-top: 10px;
+   
+   
+  }
+
+  .tlisan7 h1{
+    display: flex;
+    justify-content: center;
+  }
+
+  .tlisan7 p{
+    font-weight: 500;
+    text-shadow: 1px 3px 3px hsla(0, 0%, 0%, 0.265);
+  }
+
+  .tlisan8 h1{
+    display: flex;
+    justify-content: center;
+  }
+
+  .tlisan8{
+    margin-top: 10px;
+    padding:30px 30px 40px 30px;
+    border-radius: 10px;
+    border: 1px solid hsl(0, 5%, 88%);
+    box-shadow: 1px 3px 3px hsla(0, 0%, 0%, 0.265);
+    margin-left: 50px;
+  }
+
+  .tlisan8 p{
+    font-weight: 500;
+    text-shadow: 1px 3px 3px hsla(0, 0%, 0%, 0.265);
+  }
+
+  .follow{
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+    margin-bottom: -50px;
+    
+  }
+
+  .follow2{
+    display: flex;
+    justify-content: center;
+    scale: 30%;
+    margin-bottom: -200px;
+    
+  }
+
+  .about5{
+    margin-right: 40px;
+  }
+
+  .about6{
+    margin-right: 40px;
+  }
+
+  .about7{
+    margin-right: 40px;
+  }
+
+  .about8{
+    margin-right: 40px;
+  }

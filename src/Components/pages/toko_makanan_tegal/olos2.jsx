@@ -1,0 +1,43 @@
+import React from 'react';
+import Map from '../../../assets/toko_makanan_tegal/map/olos2.png'
+import Tokoimg from '../../../assets/toko_makanan_tegal/olos2.png'
+import Back from '../../../assets/back.png'
+
+
+import '../../style/toko.css'
+
+const Olos2 = () => {
+  return (
+    <section id="toko">
+        <div className='back'>
+          <a href="/olos/8">
+          <img src={Back} alt="" />
+          </a>
+        </div>
+       <div className="map">
+                    <img src={Map} alt="logo" />
+                </div>
+            <div className="toko-container">
+                <div className="toko-title">
+                  <div className="toko-img-rating">
+                      <img src={Tokoimg} alt="" />
+                      <div className="rating-container">
+                          <h2>Olos mba yani pegirikan</h2>
+                          <p> 4.4⭐⭐⭐⭐</p>
+                      </div>
+                    </div>
+                    <h3 className="addres-toko">Alamat</h3>
+                    <p>Jl. Gede Giri, Tengah, Pegirikan, Kec. Talang, Kabupaten Tegal, Jawa Tengah 52193</p>
+                    <h1 className="info-toko">Kontak</h1>
+                    <p>0895380176479</p>
+                    <h1 className="info-toko">Sosial Media</h1>
+                    <p>-</p>
+                    <a href="https://maps.app.goo.gl/WMJNpcc9yG9QAAen7" target="_blank" rel="noopener noreferrer"><button>Mulai Navigasi</button></a>
+                </div>
+               
+            </div>
+        </section>
+  );
+};
+
+export default Olos2;

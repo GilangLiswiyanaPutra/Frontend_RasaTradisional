@@ -1,0 +1,16 @@
+.star{
+   
+    text-align: center; 
+
+}
+
+
+.star input[type=radio]{
+    display: none;
+    text-align: center; 
+
+}
+
+.stars{
+    cursor: pointer;
+}
