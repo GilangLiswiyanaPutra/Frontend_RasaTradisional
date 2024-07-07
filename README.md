@@ -1,8 +1,25 @@
-# React + Vite
+# RasaTradisional Frontend
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Frontend untuk website **RasaTradisional**, sebuah platform yang bertujuan untuk mengenalkan dan mempromosikan makanan dan minuman tradisional dari beberapa kota di Jawa Tengah Indonesia.
 
-Currently, two official plugins are available:
+## Daftar Isi
+- Fitur
+- Persyaratan
+- Instalasi
+- Konfigurasi
+- Menjalankan Proyek
+- Struktur proyek
+- Kontribusi
+- Lisensi
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+## Fitur
+- Antarmuka pengguna
+- Halaman detail makanan dan minuman dengan informasi lengkap
+- Halaman lokasi daerah
+- Formulir ulasan dan komentar
+- Sistem autentikasi pengguna
+
+## Persyaratan
+- Node.js >= 14.x
+- npm atau yarn
